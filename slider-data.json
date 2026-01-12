@@ -1,0 +1,17 @@
+[
+  {
+    "image": "https://example.com/images/slide1.jpg",
+    "link": "https://www.youtube.com/",
+    "title": "YouTube"
+  },
+  {
+    "image": "https://example.com/images/slide2.jpg",
+    "link": "https://www.netflix.com/",
+    "title": "Netflix"
+  },
+  {
+    "image": "https://example.com/images/slide3.jpg",
+    "link": "com.google.android.youtube.tv",
+    "title": "YouTube App"
+  }
+]
