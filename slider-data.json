@@ -1,16 +1,16 @@
 [
   {
-    "image": "https://example.com/images/slide1.jpg",
+    "image": "https://i15.servimg.com/u/f15/12/50/18/35/111.jpg",
     "link": "https://www.youtube.com/",
     "title": "YouTube"
   },
   {
-    "image": "https://example.com/images/slide2.jpg",
+    "image": "https://i15.servimg.com/u/f15/12/50/18/35/212.jpg",
     "link": "https://www.netflix.com/",
     "title": "Netflix"
   },
   {
-    "image": "https://example.com/images/slide3.jpg",
+    "image": "https://i15.servimg.com/u/f15/12/50/18/35/311.jpg",
     "link": "com.google.android.youtube.tv",
     "title": "YouTube App"
   }
